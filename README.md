@@ -51,23 +51,13 @@ Optimized Accuracy: 🚀 99.12%
 📬 Contact
 📧 Taufia Hussain
 🔗 LinkedIn Profile : https://www.linkedin.com/in/taufia-hussain-52300015/
-📌 GitHub Repo: View Code
+📌 GitHub Repo: view code
 
-
----
-
-### **3️⃣ Replace These Parts**
-📌 **Replace `https://your-streamlit-app-link.streamlit.app`** with your actual Streamlit app link.  
-📌 **Replace `YOUR_GITHUB_USERNAME`** with your GitHub username.  
-📌 **Replace `Your Name`** with your actual name.  
-📌 **Replace `LinkedIn Profile`** if you want to share your LinkedIn.  
-
----
 
 ### **4️⃣ Push README to GitHub**
 Run these commands in **GitHub Codespaces terminal**:
 
-```bash
+bash
 git add README.md
 git commit -m "Added README file"
 git push origin main
