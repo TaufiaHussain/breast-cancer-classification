@@ -3,15 +3,17 @@
 ## 🏥 About the Project
 This is a **machine learning-powered web app** that predicts whether a breast tumor is **Malignant (Cancerous)** or **Benign (Non-Cancerous)** using **30 tumor features** from the **Breast Cancer Wisconsin Dataset**.
 
-🚀 **Live App:** [Click here to try it](https://your-streamlit-app-link.streamlit.app)  
+🚀 **Live App:** [Click here to try it](https://breast-cancer-classification-okiloekrwntap2raz7rq6e.streamlit.app/)  
 
 ---
 
-## 🛠 Features
-✅ **Upload tumor feature values**  
-✅ **Get instant predictions** (Benign or Malignant)  
-✅ **Probability confidence score**  
-✅ **User-friendly UI using Streamlit**  
+
+## 🏥 **Key Features**
+✅ **Upload Biopsy Data (CSV)** – Doctors can upload **real biopsy reports**  
+✅ **Instant Prediction** – Classifies tumor as **Benign or Malignant**  
+✅ **PDF Report Generation** – Downloadable medical-style reports  
+✅ **Data Visualization** – Bar charts to understand tumor features  
+✅ **Explainable AI (SHAP)** – See which tumor features influenced the prediction  
 
 ---
 
